@@ -1,6 +1,8 @@
 # Diário de Desenvolvimento — Intranet de Tickets e Reserva de Salas
 
 > **Instrução permanente para o agente:** Este arquivo deve ser atualizado ao final de **cada interação** com o aluno, sem exceção. Adicione uma nova seção `## Passo X.Y` com subseções `### Agente — Passo X.Y` e `### Aluno — Passo X.Y` (títulos únicos para evitar MD024). Blocos de código sempre com linguagem declarada (MD040). Nunca pule uma interação. Isso vale para qualquer agente (Claude, Codex, etc.) que der continuidade ao projeto.
+>
+> **Nunca registre** operações de Git (init, commit, push, etc.) no histórico — são irrelevantes para o propósito de aprendizado deste arquivo.
 
 ---
 
